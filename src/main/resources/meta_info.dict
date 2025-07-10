@@ -1,0 +1,7 @@
+{
+  "id" = "receiptgrabber"
+  "vendor" = "Lucas Bergman"
+  "module_build" = "9999"
+  "module_name" = "AI Receipt Grabber"
+  "minbuild" = "1372"
+}

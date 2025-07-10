@@ -1,0 +1,3 @@
+# Text files use LF line endings, except the Windows Gradle wrapper
+* text=auto eol=lf
+gradlew.bat text eol=crlf
